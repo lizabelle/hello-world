@@ -1,2 +1,3 @@
 # hello-world
-Baby's first repository
+
+Just poking around these parts.
